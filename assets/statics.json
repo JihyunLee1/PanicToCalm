@@ -1,0 +1,28 @@
+{
+    "PFA_BOOK": {
+      "A": "PFA book for phase A: Required information : [A.Q1] Physical Symptoms, [A.Q2] Emotional State, [A.Q3] Catastrophic Thinking | Required process : [A.P1] Ensure Safety\n",
+      "B": "PFA book for phase B: Required process : [B.P1] Ensure Stability (grounding techniques or breathing exercises), [B.P2] Reframing Perspective\n\n",
+      "C": "PFA book for phase C: Required process : [C.P1] Seeking Professional Support, [C.P2] Ending Positively \n\n"
+    },
+    "PFA_PHASE": {
+      "A": "LOOK, ASSESSMENT",
+      "B": "LISTEN, De-escalation",
+      "C": "LINK, long-term coping strategies"
+    },
+    "NOTE_KEYS": {
+      "A": [
+        "[A.Q1] Physical Symptoms",
+        "[A.Q2] Emotional State",
+        "[A.Q3] Catastrophic Thinking",
+        "[A.P1] Ensure Safety"
+      ],
+      "B": [
+        "[B.P1] Ensure Stability",
+        "[B.P2] Reframing Perspective"
+      ],
+      "C": [
+        "[C.P1] Professional_Support",
+        "[C.P2] Ending Positively"
+      ]
+    }
+  }

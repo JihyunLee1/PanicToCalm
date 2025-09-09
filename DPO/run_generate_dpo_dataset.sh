@@ -1,0 +1,1 @@
+python generate.py --demo_config_path "../configs/demo_config.json"  --fake_seed 79 --max_num 10

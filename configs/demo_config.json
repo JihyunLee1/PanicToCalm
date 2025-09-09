@@ -1,0 +1,25 @@
+{
+    "KEEP_PHRASE": "keep_this_stage",
+    "MOVE_PHRASE": "move_to_next",
+    "MOVE_RULE": {
+        "A": 20,
+        "B": 30,
+        "C": 20
+    },
+    "model_path": "meta-llama/Llama-3.1-8B-Instruct",
+    "base_model": "meta-llama/Llama-3.1-8B-Instruct",
+    "plan_path": PLAN MODEL PATH,
+    "utt_path": UTT MODEL PATH,
+    "log_path": "./logs/plan_to_utt.log",
+    "dial_save_dir": "./dialogues",
+    "dpo_model_dir" : "./dpo_models/plan_to_utt",
+    "LANGUAGE" : "en",
+    "max_length" : 1024,
+    "max_new_tokens" : 256,
+    "run_type" : "plan_to_utt",
+    "client_instruction" : "assets/client_instruction.txt",
+    "client_info" : "assets/client_test.json",
+    "first_words" : "Hello, this is panic first aid. How can I help you today?"
+
+
+}
